@@ -8,5 +8,5 @@ def my_each(array)
   end
 end
 
-my_each(1,2,3,4) {|array|prints array }
+def my_each(array) {|array|prints array }
 end
