@@ -8,6 +8,6 @@ def my_each(array)
   end
 end
 
-my_each do
-  1
+my_each(array) do
+  return
 end
