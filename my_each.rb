@@ -10,5 +10,5 @@ def my_each(array)
 end
 
 my_each(array) do
-  array
+  array[0]
 end
